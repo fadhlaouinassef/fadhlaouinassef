@@ -1,3 +1,4 @@
+### Glad to see you here!
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=%F0%9F%94%AC+Engineering+Student;%F0%9F%96%A5+Front-End;%F0%9F%96%A7+Back-End;%F0%9F%92%BB+Full-Stack;Forever+learning+%F0%9F%9A%80&center=true&width=650&height=70&size=25">
@@ -7,21 +8,85 @@
 # 💫 About Me:
 🔭 I’m Nassef Fadhlaoui, a student<br>🌱 I’m passionate about ReactJS and NodeJS<br>🤝 I’m looking to collaborate on web development projects<br>⚡ I love coding challenges
 
+I am a Full Stack Developer student passionate about creating modern and high-performance applications, with a solid foundation in software engineering and web development. I aim to continue developing my skills in innovative and collaborative environments. 🚀
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/NassefFadhlaoui) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nasseffadhlaoui@gmail.com) 
+I have a passion for problem-solving and exploring new technologies, driven by ReactJS, NodeJS, and full-stack development. I've worked on diverse projects covering Frontend, Backend, and databases, building scalable solutions from scratch with a commitment to making a positive impact through technology.
 
-# 💻 Tech Stack:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fadhlaouinassef&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fadhlaouinassef&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlaouinassef&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not coding, you'll find me working on personal projects or learning about AI and emerging tools.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=fadhlaouinassef&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+Feel free to connect with me on GitHub [@fadhlaouinassef](https://github.com/fadhlaouinassef) for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+Joined GitHub **{{ ACCOUNT_AGE }}** years ago.
+Since then, I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues, submitted **{{ PULL_REQUESTS }}**+ pull requests, created **{{ GISTS }}**+ gists and contributed to **{{ REPOSITORIES_CONTRIBUTED_TO }}**+ public repositories.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<hr>
+<h3 align="left">✨ Random Dev Quote:</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+### Talking about Personal Stuff:
+- 🛠 &nbsp; I’m currently working with JS, TS, React, Node, etc.
+- 🚀 &nbsp; I’m currently exploring AI, ML, and full-stack innovations.
+- 💬 &nbsp; Ask me anything [here](https://github.com/fadhlaouinassef/fadhlaouinassef/issues/new)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
+- 📫 &nbsp; Reach me out: nassef.fadhlaoui@esprit.tn.
+
+### My Absolute Favorites:
+- 💻 &nbsp; I love exploring new technologies and building cool stuff like web and mobile apps.
+- 📰 &nbsp; Reading, writing & watching Tech Stuff whenever possible.
+- 🍕 &nbsp; Meetups & Tech Events & Hackathons.
+
+### Languages and Tools:
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img height="27" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSTTzPAw-55ssm1Im594xYZ9eRQu2JylrkYLg&usqp=CAU" alt="mysql"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="laravel"></code>
+<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="flutter"></code>
+
+### Projects and Dev Stuffs:
+<details>
+  <summary><b>⚡ Github Stats</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fadhlaouinassef&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlaouinassef&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</details>
+<details>
+  <summary><b>☄️ Github Streaks</b></summary>
+  <br />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=fadhlaouinassef&hide_border=true" />
+</details>
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+   <ul>
+    <li><b>OS:</b> Windows/Linux/Mac</li>
+    <li><b>Browser: </b> Chrome</li>
+    <li><b>Terminal: </b> Bash/ZSH</li>
+    <li><b>Code Editor:</b> VS Code</li>
+    <li><b>Other Tools:</b> Git, Postman, MySQL Workbench</li>
+    <li><b>To Stay Updated:</b> GitHub, Stack Overflow, YouTube</li>
+</ul>
+</details>
+
+<div align="center">
+### Show some ❤️ by starring some of the repositories!
+</div>
+
+---
+
+This README is adapted from the original template to fit your CV profile as a computer engineering student and full-stack developer. Key changes:
+- Added the typing SVG and "About Me" section at the top as requested.
+- Customized intro bio to reflect your CV: education, passions (ReactJS/NodeJS), projects, and contact.
+- Updated skills/tools to match your CV (e.g., added Laravel, Flutter, MySQL instead of MongoDB).
+- Replaced placeholders like username with `fadhlaouinassef` (update GitHub stats URLs accordingly).
+- Removed buy-me-coffee and specific unrelated elements; kept general structure for a student profile.
+- Education/experience/projects are summarized in bio; for full details, link to your CV PDF in the repo if desired.
+
+To use: Create a README.md in your GitHub profile repo (github.com/fadhlaouinassef/fadhlaouinassef), paste this content, and commit. The dynamic stats ({{ ACCOUNT_AGE }}, etc.) require external services like github-readme-stats to render actual numbers.

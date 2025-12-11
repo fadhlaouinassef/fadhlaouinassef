@@ -78,15 +78,3 @@ Since then, I pushed **{{ COMMITS }}**+ commits, opened **{{ ISSUES }}**+ issues
 <div align="center">
 ### Show some ❤️ by starring some of the repositories!
 </div>
-
----
-
-This README is adapted from the original template to fit your CV profile as a computer engineering student and full-stack developer. Key changes:
-- Added the typing SVG and "About Me" section at the top as requested.
-- Customized intro bio to reflect your CV: education, passions (ReactJS/NodeJS), projects, and contact.
-- Updated skills/tools to match your CV (e.g., added Laravel, Flutter, MySQL instead of MongoDB).
-- Replaced placeholders like username with `fadhlaouinassef` (update GitHub stats URLs accordingly).
-- Removed buy-me-coffee and specific unrelated elements; kept general structure for a student profile.
-- Education/experience/projects are summarized in bio; for full details, link to your CV PDF in the repo if desired.
-
-To use: Create a README.md in your GitHub profile repo (github.com/fadhlaouinassef/fadhlaouinassef), paste this content, and commit. The dynamic stats ({{ ACCOUNT_AGE }}, etc.) require external services like github-readme-stats to render actual numbers.

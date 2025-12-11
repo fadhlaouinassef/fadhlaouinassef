@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/Ratheshan03/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+cycle+d'ingénieur;Développeur+Front-End;Développeur+Back-End;Passionné+par+le+code&center=true&width=500&height=50">
+  </a>
+</p>
+
 # 💫 About Me:
 🔭 I’m Nassef Fadhlaoui, a student<br>🌱 I’m passionate about ReactJS and NodeJS<br>🤝 I’m looking to collaborate on web development projects<br>⚡ I love coding challenges
 

@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+cycle+d'ingénieur;Développeur+Front-End;Développeur+Back-End;Passionné+par+le+code&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Étudiant+en+cycle+d'ingénieur;Front-End;Back-End;Full-Stack;Passionné+par+le+code&center=true&width=500&height=50">
   </a>
 </p>
 
